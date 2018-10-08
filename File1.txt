@@ -1,2 +1,2 @@
 LINE 1-- This is a new file created on local machine. 
-2nd Line -- Added on Github.com, remote server. 
+2nd Line -- Added on Github.com, remote server..
